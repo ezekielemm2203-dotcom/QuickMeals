@@ -14,7 +14,7 @@ Problem Statement: When buying food, students need to commute from their halls, 
 
 
 Why This Problem Matters:
-Food is an essential part of human living and students currently spend too much time on acquiring it alone, not to talk of the stress from harsh weather conditions, unbearable crowds and poor customer service 
+Food is an essential part of human living and students currently spend too much time on acquiring it alone, not to talk of the stress from harsh weather conditions, unbearable crowds and poor customer service.
 
 
 Research:
@@ -39,7 +39,7 @@ Question 2: How often do you experience these problems?
 Result: 53.3% of the responders said that they suffered from these issues several times in one week.
 
 
-Question 3: how long have you experienced these difficulties?
+Question 3: How long have you experienced these difficulties?
 Result: 50% of the responders said that they'd experience these issues for less than a month while 21.4% of the responders said that they'd experienced these issues for one to six months.
 
 
@@ -52,12 +52,11 @@ Solution 1
 Description: Most of the responders said that they had become accustomed to either persevering through the crowds in hopes of getting their products or giving up and coming back later.
 
 Pros:
-- builds character 
-- builds patience 
+- Consumers adapt to crowds and still get their products
 
 Cons:
-- time wasting 
-- inconvenience
+- Time wastage
+- Risk of lost sales
 
 User Stories
 "As a student, I would like a simplified method of getting food without wasting my time."
@@ -92,12 +91,12 @@ What core problem will Version 1 solve?
 
 
 Included Features
-Feature 1: pre-ordering products 
-Feature 2: pickup times
-Feature 3: vendor discovery page
+Feature 1: Pre-ordering products 
+Feature 2: Pickup times
+Feature 3: Vendor discovery page
 Not Included
-Future Feature: financial tools for small vendors
-Future Feature: campus friendly payment options 
+Future Feature: Financial tools for small vendors
+Future Feature: Campus friendly payment options 
 Future Feature: AI suggestions 
 
 Functional Requirements:
