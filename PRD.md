@@ -36,6 +36,7 @@ Date: 20 November, 2026
 Number of Responses: 16
 
 **Results**
+
 *Question 1*: Do you often experience difficulty while buying or selling on campus?
 Result: 75% of the respondents picked "Yes".
 
