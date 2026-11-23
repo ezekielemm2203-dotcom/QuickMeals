@@ -1,7 +1,7 @@
 # Product Requirements Document
-Project Information
-Project Name: QuickMeals
-Date: 22 November 2026
+Project Information\
+Project Name: QuickMeals\
+Date: 22 November 2026\
 Version: 1.0
 
 
@@ -23,8 +23,8 @@ Food is a fundamental need for everyone, and for students, this truth proves eve
 
 ## Research:
 **Observation Findings**
-Location: Babcock University, Ilishan-Remo, Ogun State, Nigeria 
-Date: 20 November, 2026
+Location: Babcock University, Ilishan-Remo, Ogun State, Nigeria\
+Date: 20 November, 2026\
 ***Key Observations***
 1. Crowds are a common denominator in the survey.
 2. Difficulty finding the appropriate target buyers.
@@ -32,7 +32,7 @@ Date: 20 November, 2026
 
 
 **Observation Evidence** 
-**User Research**
+**User Research**\
 Number of Responses: 16
 
 **Results**
@@ -54,8 +54,8 @@ Result: 50% of the respondents said that they had experienced these issues for l
 2. These problems have existed for a considerable period of time.
 3. These problems occur to many students several times a week.
 
-**Existing Solutions**
-**Solution 1**
+# Existing Solutions
+**Solution 1**\
 Description: Most of the respondents said that they had become accustomed to either persevering through the crowds in hopes of getting their products or giving up and coming back later.
 
 *Pros*:
@@ -67,15 +67,15 @@ Description: Most of the respondents said that they had become accustomed to eit
 - Service is poor. 
 
 ## User Stories
-"As a student, I would like a simplified method of getting food without wasting my time."
+"As a student, I would like a simplified method of getting food without wasting my time."\
 
-"As a vendor, I would like to attend to only the number of orders I can at a time."
+"As a vendor, I would like to attend to only the number of orders I can at a time."\
 
 "As a student, I want to pick up my food without worrying about annoying and ineffective interactions."
 
 
 # Proposed Solution
-Solution Summary
+Solution Summary\
 Our solution is to allow students to order the food of their choice comfortably in any place of their choice and go and pick it up at an organized time slot to directly tackle the problem of overcrowding and poor vendor-to-customer interactions.
 
 ### A. Pre-order and pickup:
@@ -99,25 +99,25 @@ What core problem will Version 1 solve?
 
 
 # Included Features
-Feature 1: Pre-ordering products 
-Feature 2: Pickup times
-Feature 3: Vendor discovery page
-Not Included
-Future Feature 1: Financial tools for small vendors
-Future Feature 2: Campus-friendly payment options 
-Future Feature 3: AI suggestions 
+Feature 1: Pre-ordering products.\
+Feature 2: Pickup times.\
+Feature 3: Vendor discovery page.
+# Not Included
+Future Feature 1: Financial tools for small vendors.\
+Future Feature 2: Campus-friendly payment options.\
+Future Feature 3: AI suggestions.
 
 ## Functional Requirements:
-Requirement 1 
-The system shall allow students to view vendor menus and prices
+Requirement 1: 
+"The system shall allow students to view vendor menus and prices"
 
 
-Requirement 2
-The system shall allow students to pre-order food and pay for it online.
+Requirement 2: 
+"The system shall allow students to pre-order food and pay for it online."
 
 
-Requirement 3
-The system shall allow vendors to view students' orders.
+Requirement 3: 
+"The system shall allow vendors to view students' orders."
 
 
 ## Non-Functional Requirements:
@@ -129,6 +129,5 @@ The system shall allow vendors to view students' orders.
 6. Maintainability.
 
 
-
-Conclusion.
-This system would help solve stressful food purchases and unhealthy customer interactions. 
+**Conclusion:**
+This system would help solve stressful food purchases and unhealthy customer interactions, benefiting both the consumers, vendors and occupants of the campus.
