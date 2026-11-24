@@ -119,6 +119,16 @@ Requirement 2:
 Requirement 3: 
 "The system shall allow vendors to view students' orders."
 
+Requirement 4: 
+"The system shall allow vendors to notify students when their orders are ready."
+
+Requirement 5: 
+"The system shall allow students to present evidence of transaction before obtaining their order."
+
+Requirement 6: 
+"The system shall allow vendors to keep records of the orders that have been made, successfully collected or failed."
+
+
 
 ## Non-Functional Requirements:
 1. Performance.
